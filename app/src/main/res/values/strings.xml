@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">YouthHostel</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Dingo Moon Hostel</string>
+    <string name="imgView">Hostel Image</string>
+    <string name="btnInformation">Hostel Information</string>
+    <string name="txtStreet">88 Kangaroo Lane</string>
+    <string name="txtCityCountry">Darwin, Australia</string>
+    <string name="txtCostRange">Cost Range: $18 - $22</string>
+    <string name="title_activity_information">Information</string>
+</resources>
